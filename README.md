@@ -1,0 +1,2 @@
+# gitStudy
+to learn git
