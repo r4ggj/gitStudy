@@ -3,4 +3,5 @@ just a test file
 just a test file
 just a test file
 
-v1.0.1
+v1.0.2
+some changes
